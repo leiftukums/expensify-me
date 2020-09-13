@@ -17,6 +17,6 @@ button:disabled {
 
 .is-active {
   font-weight: bold;
-  color: green;
+  color: red;
 }
 /*# sourceMappingURL=styles.css.map */
